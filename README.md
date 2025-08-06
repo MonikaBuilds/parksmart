@@ -66,16 +66,6 @@ Whether it's a residential complex, hospital, shopping mall, or office building,
 
 ---
 
-## 🖼️ Screenshots
-
-> Add image links after uploading them to your GitHub repo
-
-```md
-![Login Page](https://github.com/MonikaBuilds/ParkSmart/assets/login.png)
-![Admin Dashboard](https://github.com/MonikaBuilds/ParkSmart/assets/dashboard.png)
-![Slot Visualization](https://github.com/MonikaBuilds/ParkSmart/assets/slots.png)
-
----
 
 ## 🖼️ Screenshots
 
