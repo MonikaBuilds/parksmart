@@ -1,9 +1,9 @@
- ParkSmart – Smart Parking Management System
+## ParkSmart – Smart Parking Management System
 
 > An intelligent and user-friendly web-based system designed to modernize parking by tracking and displaying real-time slot availability through a simple visual layout.
 
 ---
-About the Project
+## About the Project
 
 ParkSmart is a smart parking management system developed to address the growing challenges of urban parking congestion and mismanagement. As cities continue to expand and the number of vehicles on the road increases, traditional parking systems become inefficient, time-consuming, and frustrating for users.
 
@@ -23,28 +23,28 @@ Whether it's a residential complex, hospital, shopping mall, or office building,
 
 ---
 
- Features
+## Features
 
-- 🔐 **Secure Login System** – Admin authentication to prevent unauthorized access  
-- 🅿️ **Real-Time Parking Slot Tracking** – Visually displays available and occupied slots  
-- 📊 **Admin Panel** – Add, remove, and update slot information easily  
-- 💻 **Responsive Design** – Works well across desktop and mobile devices  
-- 🧩 **Grid-Based Slot Visualization** – View all parking slots in a visual grid layout  
-- 📈 **Expandable Structure** – Can be upgraded with IoT sensors or machine learning  
-
----
-
-## 💡 Real-World Use Cases
-
-- 🏢 IT parks or office campuses  
-- 🏬 Shopping malls and complexes  
-- 🏘️ Gated residential societies  
-- 🏥 Hospitals or public parking spaces  
-- 🏙️ Smart city parking integrations  
+-  **Secure Login System** – Admin authentication to prevent unauthorized access  
+-  **Real-Time Parking Slot Tracking** – Visually displays available and occupied slots  
+-  **Admin Panel** – Add, remove, and update slot information easily  
+-  **Responsive Design** – Works well across desktop and mobile devices  
+-  **Grid-Based Slot Visualization** – View all parking slots in a visual grid layout  
+-  **Expandable Structure** – Can be upgraded with IoT sensors or machine learning  
 
 ---
 
-## 🛠️ Technologies Used
+##  Real-World Use Cases
+
+-  IT parks or office campuses  
+-  Shopping malls and complexes  
+-  Gated residential societies  
+-  Hospitals or public parking spaces  
+-  Smart city parking integrations  
+
+---
+
+##  Technologies Used
 
 | Tech         | Purpose                           |
 |--------------|-----------------------------------|
@@ -56,7 +56,7 @@ Whether it's a residential complex, hospital, shopping mall, or office building,
 
 ---
 
-## 🔧 How it Works
+##  How it Works
 
 1. **Admin Login** – Admin logs in securely using a form.
 2. **Dashboard Access** – Admin can view and manage slots.
@@ -66,7 +66,7 @@ Whether it's a residential complex, hospital, shopping mall, or office building,
 ---
 
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ![register page](https://github.com/user-attachments/assets/5db1160e-74b6-4116-bdc8-e5645c765a56)
 ![login page](https://github.com/user-attachments/assets/246e1570-71e4-4838-94b5-7df54e2621c3)
