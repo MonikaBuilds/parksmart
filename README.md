@@ -1,75 +1,79 @@
-# 🚀 Monika Bhati's Project Portfolio
+# 🚗 ParkSmart – Smart Parking Management System
 
-Welcome to my project repository!  
-Here, I showcase two of my major web-based solutions that combine **technology with real-world problems** — focusing on accessibility and smart city development.
-
----
-
-## 📁 Projects Overview
-
-| Project Name | Summary |
-|--------------|---------|
-| [✋ SignEase](#-signease--sign-language-assistant) | A sign language learning and translation web app for hearing/speech-impaired individuals. |
-| [🚗 ParkSmart](#-parksmart--smart-parking-management-system) | A smart parking management system to track and visualize real-time slot availability. |
-
----
-
-# ✋ SignEase – Sign Language Assistant
-
-> A smart assistive web application designed to **bridge communication gaps** between individuals with hearing or speech impairments and the world through sign language translation and learning modules.
+> An intelligent and user-friendly web-based system designed to modernize parking by tracking and displaying real-time slot availability through a simple visual layout.
 
 ---
 
 ## 📖 About the Project
 
-People with hearing and speech impairments face challenges in communication due to lack of accessible tools.  
-**SignEase** is a collaborative project that translates between **sign language and text** using intelligent image processing and provides engaging learning modules.
+ParkSmart is a smart parking management system developed to address the growing challenges of urban parking congestion and mismanagement. As cities continue to expand and the number of vehicles on the road increases, traditional parking systems become inefficient, time-consuming, and frustrating for users.
 
-It includes:
-- **Text-to-Sign** and **Sign-to-Text** translation
-- **Quizzes and Learning Modules** to improve ISL skills
-- **Profile Management** with image upload
-- **Secure OTP-based Password Reset**
+This web-based application provides a digital alternative to traditional parking systems by enabling real-time tracking of parking slot availability through a visual grid layout. It aims to simplify the parking experience for users and administrators alike.
+
+The project allows administrators to log in securely and manage the parking lot, update the status of each slot, and maintain a clean digital record. Users can view the parking layout and easily identify which slots are available or occupied before entering the premises.
+
+Why ParkSmart?
+
+No more driving in circles looking for parking.
+
+No dependency on physical guards or paper-based systems.
+
+Scalable and customizable for any type of parking facility.
+
+Whether it's a residential complex, hospital, shopping mall, or office building, ParkSmart can streamline the parking experience, reduce wait times, and improve traffic flow.
+
+---
+
+## 🌟 Features
+
+- 🔐 **Secure Login System** – Admin authentication to prevent unauthorized access  
+- 🅿️ **Real-Time Parking Slot Tracking** – Visually displays available and occupied slots  
+- 📊 **Admin Panel** – Add, remove, and update slot information easily  
+- 💻 **Responsive Design** – Works well across desktop and mobile devices  
+- 🧩 **Grid-Based Slot Visualization** – View all parking slots in a visual grid layout  
+- 📈 **Expandable Structure** – Can be upgraded with IoT sensors or machine learning  
+
+---
+
+## 💡 Real-World Use Cases
+
+- 🏢 IT parks or office campuses  
+- 🏬 Shopping malls and complexes  
+- 🏘️ Gated residential societies  
+- 🏥 Hospitals or public parking spaces  
+- 🏙️ Smart city parking integrations  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python (Flask)
-- HTML, CSS, JavaScript
-- MySQL
-- OpenCV (ORB for Image Matching)
-- Email SMTP (for OTP verification)
+| Tech         | Purpose                           |
+|--------------|-----------------------------------|
+| Python (Flask) | Backend web framework            |
+| HTML/CSS/JS  | Frontend structure and styling    |
+| MySQL        | Database for storing slot data    |
+| Bootstrap    | Styling and responsive layout     |
+| SMTP (Optional) | Email communication, if needed |
 
 ---
 
-## ✨ Key Features
+## 🔧 How it Works
 
-- 🔐 Secure Signup/Login with OTP-based password reset  
-- 🧠 Text-to-Sign conversion using sign language image datasets  
-- 🖐️ Sign-to-Text conversion using ORB image matching  
-- 📚 Learning dashboard with sign tutorials and resources  
-- 🎯 Quiz module to test and improve ISL skills  
-- 👤 Profile management with photo upload  
-- 📱 Responsive and mobile-optimized design  
+1. **Admin Login** – Admin logs in securely using a form.
+2. **Dashboard Access** – Admin can view and manage slots.
+3. **Slot Layout** – Users and admins view a grid showing available/occupied slots.
+4. **Update Slots** – Admin can update slot availability dynamically.
 
 ---
 
-## 🌍 Real-World Applications
+## 🖼️ Screenshots
 
-- 🏫 Education for hearing/speech-impaired individuals  
-- 🏥 Accessibility in hospitals and public services  
-- 🧑‍🏫 Inclusive learning in schools and colleges  
-- 🤝 Empowering communication in communities  
+> Add image links after uploading them to your GitHub repo
 
----
-
-## 🎯 Unique Selling Points (USP)
-
-- ✅ ORB-based recognition system  
-- ✅ Rich sign image dataset  
-- ✅ Secure OTP-based login recovery  
-- ✅ Engaging learning modules with performance tracking  
+```md
+![Login Page](https://github.com/MonikaBuilds/ParkSmart/assets/login.png)
+![Admin Dashboard](https://github.com/MonikaBuilds/ParkSmart/assets/dashboard.png)
+![Slot Visualization](https://github.com/MonikaBuilds/ParkSmart/assets/slots.png)
 
 ---
 
