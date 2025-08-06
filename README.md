@@ -1,10 +1,9 @@
-# 🚗 ParkSmart – Smart Parking Management System
+ ParkSmart – Smart Parking Management System
 
 > An intelligent and user-friendly web-based system designed to modernize parking by tracking and displaying real-time slot availability through a simple visual layout.
 
 ---
-
-## 📖 About the Project
+About the Project
 
 ParkSmart is a smart parking management system developed to address the growing challenges of urban parking congestion and mismanagement. As cities continue to expand and the number of vehicles on the road increases, traditional parking systems become inefficient, time-consuming, and frustrating for users.
 
@@ -24,7 +23,7 @@ Whether it's a residential complex, hospital, shopping mall, or office building,
 
 ---
 
-## 🌟 Features
+ Features
 
 - 🔐 **Secure Login System** – Admin authentication to prevent unauthorized access  
 - 🅿️ **Real-Time Parking Slot Tracking** – Visually displays available and occupied slots  
